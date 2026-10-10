@@ -21,9 +21,9 @@ export const profile = {
   intro:
     '12+ years of IT experience in Telecom Industry. Solution Architect & Testing Quality Lead specializing in Service Virtualization, Cloud Transformation, and AI/Generative AI solutions. Proven success in leadership, operational excellence, and architecting scalable solutions across Legacy, B2C, and B2B platforms. Expertise in DevOps, AWS/Azure, Kubernetes, CI/CD pipelines, and AI Workflow Automation.',
   location: 'Melbourne, VIC-3008, Australia',
-  email: 'abimelbexplorer@gmail.com',
+  email: 'abinash473@gmail.com',
   links: {
-    linkedin: 'https://www.linkedin.com/in/abinash-dora/',
+    linkedin: 'https://www.linkedin.com/in/abinashdora',
     github: 'https://github.com/abimelbexplorer-byte',
   },
   resumePdf: '/assets/Abinash_Dora_Resume.pdf',
