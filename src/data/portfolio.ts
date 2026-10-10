@@ -1,7 +1,10 @@
 /**
- * Central portfolio data — generated from Abinash's resume (Sushmita_dasari.pdf).
+ * Central portfolio data — generated from Abinash Dora's resume (Abinash_Dora_Resume.pdf).
  * Every fact on the site comes from this file. Update it here and the whole site follows.
  * Nothing here should be added unless it appears on the resume.
+ *
+ * Profile: 12+ years IT professional | Solution Architect | DevOps Engineer | AI Generalist
+ * Location: Melbourne, VIC-3008, Australia
  */
 
 export type Palette = { from: string; via: string; to: string; accent: string };
@@ -13,11 +16,11 @@ export const profile = {
   seriesTag: 'THE SERIES',
   /** Fictional studio card shown at the very start of the opening sequence. */
   originalLabel: 'AN ABINASH DORA ORIGINAL',
-  role: 'Full-Stack Developer',
-  tagline: ['Full-Stack Developer', 'AI / ML', 'Java'],
+  role: 'Solution Architect • Testing Quality Lead • DevOps Engineer',
+  tagline: ['Solution Architect', 'DevOps • Cloud', 'AI Generalist'],
   intro:
-    'A B.Tech Artificial Intelligence & Machine Learning student (CGPA 9.10) and full-stack developer building AI-powered platforms, payment systems and multi-tenant SaaS with Java, Python, React, Node.js and Docker.',
-  location: 'Surampalem, Andhra Pradesh',
+    '12+ years of IT experience in Telecom Industry. Solution Architect & Testing Quality Lead specializing in Service Virtualization, Cloud Transformation, and AI/Generative AI solutions. Proven success in leadership, operational excellence, and architecting scalable solutions across Legacy, B2C, and B2B platforms. Expertise in DevOps, AWS/Azure, Kubernetes, CI/CD pipelines, and AI Workflow Automation.',
+  location: 'Melbourne, VIC-3008, Australia',
   email: 'abimelbexplorer@gmail.com',
   links: {
     linkedin: 'https://www.linkedin.com/in/abinash-dora/',
@@ -29,36 +32,61 @@ export const profile = {
     srcSet: '/assets/portrait-420.webp 420w, /assets/portrait-720.webp 720w, /assets/portrait-1100.webp 1100w',
     alt: 'Portrait of Abinash Dora',
   },
-  interests: ['System Design', 'Cloud Computing (AWS)', 'Machine Learning'],
+  interests: ['Service Virtualization', 'Cloud Architecture (AWS/Azure)', 'Generative AI & LLM', 'DevOps & CI/CD', 'Agentic AI Workflows'],
 };
 
 export const education = [
   {
-    school: 'Aditya Engineering College',
-    place: 'Surampalem',
-    degree: 'Bachelor of Technology — Artificial Intelligence and Machine Learning',
-    period: 'October 2023 – Present',
-    score: 'CGPA 9.10',
+    school: 'Professional Certifications',
+    place: 'Various',
+    degree: 'Gemini Enterprise & Agent Deployment • AWS Advanced Agentic AI • AI Accelerator by OutSkill',
+    period: '2024 – Present',
+    score: 'Multiple AI/Cloud Certifications',
   },
   {
-    school: 'Sri Chaitanya Junior College',
-    place: 'Kakinada',
-    degree: 'BIEAP — MPC',
-    period: 'June 2021 – May 2023',
-    score: 'Score 925/1000',
+    school: 'Industry Experience',
+    place: 'Telecom & Cloud',
+    degree: '12+ Years IT — Solution Architecture, DevOps, Service Virtualization, AI/GenAI Solutions',
+    period: 'Oct 2015 – Present',
+    score: 'Service Virtualization SME, Platform Engineer',
   },
 ];
 
 export const experience = [
   {
-    company: 'Technical Hub Pvt Ltd',
-    role: 'Trainee',
-    place: 'Surampalem, AP',
-    period: 'May 2025 – June 2026',
+    company: 'Cognizant Technology Solutions',
+    role: 'Service Virtualization & Platform Architect',
+    place: 'Melbourne, Australia',
+    period: 'Oct 2019 – Present',
     points: [
-      'Completed one year of intensive Full-Stack Development (FSD) training covering frontend, backend, database integration, and deployment workflows.',
-      'Developed responsive and functional web applications by implementing user interfaces, server-side logic, and database connectivity.',
-      'Deployed and managed web applications while applying version control, debugging, and end-to-end development practices.',
+      'Led cross-functional engineering teams (9–10 members) delivering high-impact solutions across Legacy, B2C, and B2B platforms, supporting 31+ critical applications for Telstra.',
+      'Architected and implemented scalable solutions for cloud transformation, migration initiatives, and AI/GenAI solutions across enterprise infrastructure.',
+      'Drove DevOps adoption by guiding automation strategies for API/microservices testing, enabling CI/CD pipelines, and reducing deployment times.',
+      'Championed infrastructure support across public and private cloud environments, resolving complex network and firewall issues for high availability.',
+    ],
+  },
+  {
+    company: 'Entity Solutions Pty Ltd',
+    role: 'Analyst Programmer & Feature Team Lead',
+    place: 'Melbourne, Australia',
+    period: 'Dec 2017 – Sep 2019',
+    points: [
+      'Worked as Feature Team Lead for Client Telstra in Centre of Excellence group.',
+      'Collaborated with Solution and Technical Architects to ensure seamless integration of enterprise solutions.',
+      'Led coordination between onshore and offshore teams, ensuring timely delivery of business-critical features.',
+      'Developed reusable components and testing frameworks, reducing technical debt and accelerating development cycles.',
+    ],
+  },
+  {
+    company: 'Infosys Ltd',
+    role: 'Test Engineer & Service Virtualization Developer',
+    place: 'Australia & India',
+    period: 'Oct 2015 – Dec 2017',
+    points: [
+      'Developed service virtualization solutions to simulate high-cost third-party systems, significantly reducing testing costs.',
+      'Integrated virtual services with downstream systems for comprehensive integration testing across multiple environments.',
+      'Collaborated with QA teams to design test strategies and build reusable test assets that enhanced coverage and optimized execution time.',
+      'Coordinated with global teams to bridge onshore and offshore collaboration, supporting evolving business requirements.',
     ],
   },
 ];
