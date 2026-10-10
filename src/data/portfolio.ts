@@ -37,18 +37,18 @@ export const profile = {
 
 export const education = [
   {
-    school: 'Professional Certifications',
-    place: 'Various',
-    degree: 'Gemini Enterprise & Agent Deployment • AWS Advanced Agentic AI • AI Accelerator by OutSkill',
-    period: '2024 – Present',
-    score: 'Multiple AI/Cloud Certifications',
+    school: 'Cognizant Technology Solutions',
+    place: 'Melbourne, Australia',
+    degree: 'Service Virtualization & Platform Architect',
+    period: 'Oct 2019 – Present',
+    score: 'Leadership • Architecture • AI/GenAI',
   },
   {
-    school: 'Industry Experience',
-    place: 'Telecom & Cloud',
-    degree: '12+ Years IT — Solution Architecture, DevOps, Service Virtualization, AI/GenAI Solutions',
-    period: 'Oct 2015 – Present',
-    score: 'Service Virtualization SME, Platform Engineer',
+    school: 'Professional Certifications',
+    place: 'Various',
+    degree: 'Gemini Enterprise & Agent Deployment • AWS Advanced Agentic AI • AI Accelerator',
+    period: '2024 – Present',
+    score: 'Multiple AI/Cloud Certifications',
   },
 ];
 
